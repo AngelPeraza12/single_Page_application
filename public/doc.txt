@@ -1,0 +1,3 @@
+* dependencias instaladas
+
+npm install @babel/core babel-loader html-webpack-plugin webpack-cli webpack-dev-server --save-dev
